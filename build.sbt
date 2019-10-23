@@ -2,7 +2,7 @@ organization := "com.github.kmizu"
 
 name := "abstract_generics"
 
-scalaVersion := "2.12.2"
+scalaVersion := "2.12.10"
 
 crossScalaVersions := Seq("2.11.11", scalaVersion.value)
 
